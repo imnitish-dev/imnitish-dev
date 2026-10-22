@@ -49,8 +49,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnitish-dev&layout=compact&theme=transparent&hide_border=true" />
   <br>
   <img src="https://streak-stats.demolab.com?user=imnitish-dev&theme=transparent&hide_border=true" />
-  <br>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=imnitish-dev&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 </details>
