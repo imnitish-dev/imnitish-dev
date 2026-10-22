@@ -1,11 +1,10 @@
 ### Hey, I'm Nitish 👋
 
-Backend developer in Mumbai. Mostly Go, TypeScript and a bit of Rust.
+Backend developer in Mumbai.
 
-**Projects**
+<img src="https://skillicons.dev/icons?i=go,ts,rust,nodejs,mongodb,redis,postgres,docker,linux" />
 
-- [temp-mail](https://github.com/imnitish-dev/temp-mail) — disposable inbox · [live](https://mails.imnitish.dev)
-- [ip2location](https://github.com/imnitish-dev/ip2location) — IP geolocation lookup in Go
-- [corne](https://github.com/imnitish-dev/corne) — my split keyboard firmware
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=imnitish-dev&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnitish-dev&layout=compact&theme=transparent&hide_border=true" />
 
 [imnitish.dev](https://imnitish.dev) · [X](https://x.com/imnitish_dev)
